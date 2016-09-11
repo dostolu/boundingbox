@@ -1,0 +1,1 @@
+[![CircleCI](https://circleci.com/gh/dostolu/boundingbox.svg?style=svg)](https://circleci.com/gh/dostolu/boundingbox)
