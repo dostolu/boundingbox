@@ -1,0 +1,31 @@
+{
+  "name": "@dostolu/boundingbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test:eslint && npm run test:app",
+    "test:eslint": "eslint .",
+    "test:app": "jasmine-node --verbose index.spec.js",
+    "postpublish": "greenkeeper-postpublish"
+  },
+  "engines": {
+    "node": ">= 6.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://syroegkin@bitbucket.org/syrop/lib-boundingbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/syrop/lib-boundingbox#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.1.0",
+    "eslint-config-airbnb-base": "^4.0.2",
+    "eslint-plugin-import": "^1.10.3",
+    "eslint-plugin-jsx-a11y": "^1.5.5",
+    "greenkeeper-postpublish": "^1.0.1",
+    "jasmine-node": "^1.14.5"
+  }
+}

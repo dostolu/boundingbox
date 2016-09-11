@@ -1,0 +1,7 @@
+node_modules
+.idea
+.eslintrc
+.gitignore
+.npmignore
+index.spec.js
+circle.yml
