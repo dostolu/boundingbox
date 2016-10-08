@@ -1,7 +1,7 @@
 {
   "name": "@dostolu/boundingbox",
-  "version": "1.0.2",
-  "description": "",
+  "version": "1.0.3",
+  "description": "Find bounding box around the polygon",
   "main": "index.js",
   "scripts": {
     "test": "npm run test:eslint && npm run test:app",
