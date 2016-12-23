@@ -1,6 +1,6 @@
 {
   "name": "@dostolu/boundingbox",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Find bounding box around the polygon",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "postpublish": "greenkeeper-postpublish"
   },
   "engines": {
-    "node": ">= 6.3.0"
+    "node": ">= 6.9.2"
   },
   "repository": {
     "type": "git",
